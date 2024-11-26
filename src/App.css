@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+#todo{
+  height: auto;
+  width:700px;
+  background: rgba(255.255.255.0.3);
+  border:1px solid black;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px black;
+  margin-top: 50px;
+}
+
+#btn{
+  border-radius: 100%;
+  background:rgb(209, 209, 233);
+  text-decoration-style: solid;
+}
+
+#todoList{
+  border:1px solid black;
+  border-radius: 50px;
+  width:500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul{
+  list-style-type: none;
+}
